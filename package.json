@@ -1,0 +1,16 @@
+{
+  "name": "crud-aperfeicoamento",
+  "version": "1.0.0",
+  "description": "Projeto aperfeiçoando o CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./core/crud.js",
+    "start": "node ./core/crud.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
